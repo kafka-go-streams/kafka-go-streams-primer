@@ -15,6 +15,8 @@ github.com/kafka-go-streams/kafka-go-streams v0.0.0-20200503210718-d0b4738b929a 
 github.com/kafka-go-streams/kafka-go-streams v0.0.0-20200503210718-d0b4738b929a/go.mod h1:n38Wk9bbrPmyghCWqdLu9jXHYlLui46ZN3BSSWXnxGQ=
 github.com/kafka-go-streams/kafka-go-streams v0.0.0-20200607045255-07a066e5f6d5 h1:5U7QzbodNjKRxbRiww+L0q03xXROqScA98wQhDYklTM=
 github.com/kafka-go-streams/kafka-go-streams v0.0.0-20200607045255-07a066e5f6d5/go.mod h1:n38Wk9bbrPmyghCWqdLu9jXHYlLui46ZN3BSSWXnxGQ=
+github.com/kafka-go-streams/kafka-go-streams v0.0.0-20200616041326-ec986559480a h1:DskYq9/9JoeJ/vEEwALb0qOiISUPLDKD3ypbMK9x248=
+github.com/kafka-go-streams/kafka-go-streams v0.0.0-20200616041326-ec986559480a/go.mod h1:n38Wk9bbrPmyghCWqdLu9jXHYlLui46ZN3BSSWXnxGQ=
 github.com/kisielk/gotool v1.0.0/go.mod h1:XhKaO+MFFWcvkIS/tQcRk01m1F5IRFswLeQ+oQHNcck=
 github.com/konsorten/go-windows-terminal-sequences v1.0.1 h1:mweAR1A6xJ3oS2pRaGiHgQ4OO8tzTaLawm8vnODuwDk=
 github.com/konsorten/go-windows-terminal-sequences v1.0.1/go.mod h1:T0+1ngSBFLxvqU3pZ+m/2kptfBszLMUkC4ZK/EgS/cQ=
